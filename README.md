@@ -47,5 +47,6 @@ mkdir whatsapp<br>
 cd whatsapp<br><br>
 
 npm i whatsapp-web.js<br>
-npm i qrcode-terminal<br>
+npm i qrcode-terminal<br><br>
+
 
