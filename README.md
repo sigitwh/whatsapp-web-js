@@ -1,5 +1,6 @@
 # whatsapp-web-js
 
+sudo apt update<br>
 sudo apt install nodejs<br>
 sudo apt install npm<br>
 sudo apt install gconf-service<br>
