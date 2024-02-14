@@ -41,11 +41,11 @@ sudo apt install libappindicator1<br>
 sudo apt install libnss3<br>
 sudo apt install lsb-release<br>
 sudo apt install xdg-utilssudo<br>
-sudo apt install wget<br>
+sudo apt install wget<br><br>
 
-mkdir whatsapp
-cd whatsapp
+mkdir whatsapp<br>
+cd whatsapp<br><br>
 
-npm i whatsapp-web.js
-npm i qrcode-terminal
+npm i whatsapp-web.js<br>
+npm i qrcode-terminal<br>
 
