@@ -6,7 +6,7 @@ sudo apt install gconf-service<br>
 sudo apt install libgbm-dev<br>
 sudo apt install libasound2<br>
 sudo apt install libatk1.0-0<br>
-sudo apt install libc6<br><br>
+sudo apt install libc6<br>
 sudo apt install libcairo2<br>
 sudo apt install libcups2<br>
 sudo apt install libdbus-1-3<br>
