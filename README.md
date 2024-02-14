@@ -43,3 +43,9 @@ sudo apt install lsb-release<br>
 sudo apt install xdg-utilssudo<br>
 sudo apt install wget<br>
 
+mkdir whatsapp
+cd whatsapp
+
+npm i whatsapp-web.js
+npm i qrcode-terminal
+
